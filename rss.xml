@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <rss version="2.0">
+    <channel>
+	   <item>
+	     <title>Uskršnji praznici</title>
+		 <link>https://kompanijaput.netlify.app/index.html</link>
+		 <description>Zbog predstojećih uskršnjih praznika komapnija neće raditi od
+		 10.4.2023 do 17.4.2023.</description>
+	   </item>
+	   
+	   <item>
+	     <title>Popusti</title>
+		 <link>https://kompanijaput.netlify.app/cenovnik.html</link>
+		 <description>U nedelju 9.4.2023 kompanija put umanjuje za 10% cene svih letova.</description>
+	   </item>
+	   
+	   <item>
+	     <title>Novi letovi</title>
+		 <link>https://kompanijaput.netlify.app/cenovnik.html</link>
+		 <description>Od 18.4.2023 poćinjemo da uvodimo jos letova za razne lokacije.</description>
+	   </item>
+	</channel>
+	</rss>
